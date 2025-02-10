@@ -6,33 +6,38 @@ Project Overview:
 
 The project consists of three main components:
 
-Credit Score Analysis
-Preprocessing and visualizing credit score data.
-Selecting the most significant features that impact the credit score.
+1) Credit Score Analysis
 
-Credit Score Prediction
-Implementing a predictive model using the RandomForestClassifier.
-Training and evaluating the model for accurate credit score predictions.
+   Preprocessing and visualizing credit score data.
 
-Deployment
-Deploying the trained model into a Telegram bot for user interaction.
+   Selecting the most significant features that impact the credit score.
 
-Technologies Used
+3) Credit Score Prediction
 
-Python
+   Implementing a predictive model using the RandomForestClassifier.
 
-Pandas, NumPy (for data preprocessing)
+   Training and evaluating the model for accurate credit score predictions.
 
-Matplotlib, Seaborn (for visualization)
+5) Deployment
 
-Scikit-learn (for machine learning model)
+   Deploying the trained model into a Telegram bot for user interaction.
 
-Telegram API (for deployment)
+Technologies Used:
 
-Future Enhancements
+   Python
+  
+   Pandas, NumPy (for data preprocessing)
+  
+   Matplotlib, Seaborn (for visualization)
+  
+   Scikit-learn (for machine learning model)
+  
+   Telegram API (for deployment)
 
-Improve model accuracy by testing other machine learning algorithms.
+Future Enhancements:
 
-Integrate more user-friendly interactions within the Telegram bot.
-
-Expand deployment to a web-based interface.
+  Improve model accuracy by testing other machine learning algorithms.
+ 
+  Integrate more user-friendly interactions within the Telegram bot.
+ 
+  Expand deployment to a web-based interface.
